@@ -5,3 +5,4 @@ host_version = 1
 service_name = edu.rit.foss.blocku
 icon = blocku
 exec = sugar-activity activity.VteActivity
+repository = https://github.com/sugarlabs/blocku.git
